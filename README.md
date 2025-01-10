@@ -39,7 +39,7 @@ Bar plots for revenue distribution across product categories
 Pie charts depicting payment preferences
 Heatmaps for correlation analysis
 ### Key Findings
-Sales peak during November and December, indicating strong holiday season demand.
-Female customers are the primary revenue drivers, contributing to the majority of sales.
-Credit card payments are the preferred payment method, highlighting a need to optimize card-related offers.
-Fashion and Apparel dominate sales, suggesting further investment in this category could yield higher profits.
+1. Sales peak during November and December, indicating strong holiday season demand.
+2. Female customers are the primary revenue drivers, contributing to the majority of sales.
+3. Credit card payments are the preferred payment method, highlighting a need to optimize card-related offers.
+4. Fashion and Apparel dominate sales, suggesting further investment in this category could yield higher profits.
